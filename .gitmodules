@@ -6,4 +6,4 @@
 	url = git@github.com:archaelus/erlydtl.git
 [submodule "lib/mochiweb"]
 	path = lib/mochiweb
-	url = http://github.com/clones/mochiweb.git
+	url = git@github.com:archaelus/mochiweb.git
