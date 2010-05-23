@@ -1,9 +1,9 @@
 [submodule "lib/ejango"]
 	path = lib/ejango
-	url = git@github.com:archaelus/ejango.git
+	url = git://github.com/archaelus/ejango.git
 [submodule "lib/erlydtl"]
 	path = lib/erlydtl
-	url = git@github.com:archaelus/erlydtl.git
+	url = git://github.com/archaelus/erlydtl.git
 [submodule "lib/mochiweb"]
 	path = lib/mochiweb
-	url = git@github.com:archaelus/mochiweb.git
+	url = git://github.com/archaelus/mochiweb.git
